@@ -43,3 +43,18 @@
 AutoGrad/ ├── grpc_server/ # gRPC server handling sensor requests ├── carla_data_collector/ # Fetches real-time sensor data from CARLA ├── qt_qml_client/ # Qt/QML frontend with gRPC client ├── proto/ # Protobuf definitions ├── configs/ # App config files (.conf) ├── docs/ # Architecture diagrams and explanations ├── README.md └── LICENSE
 
 
+---
+
+## 🧪 Upcoming Features
+
+- [ ] CAN Bus data simulation with SocketCAN
+- [ ] Embedded deployment script (Yocto/Linux)
+- [ ] Lane departure prediction using deep learning (optional)
+- [ ] IEEE journal submission ready
+
+---
+
+## 🤝 Contributors
+
+Made with passion by [Ashutosh Tiwari](https://github.com/Ashutosh0624)  
+Let's build safer autonomous systems together!
