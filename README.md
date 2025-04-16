@@ -40,8 +40,6 @@
 
 ## 📁 Project Structure
 
-'''
-
 AutoGrad/ ├── grpc_server/ # gRPC server handling sensor requests ├── carla_data_collector/ # Fetches real-time sensor data from CARLA ├── qt_qml_client/ # Qt/QML frontend with gRPC client ├── proto/ # Protobuf definitions ├── configs/ # App config files (.conf) ├── docs/ # Architecture diagrams and explanations ├── README.md └── LICENSE
 
 
